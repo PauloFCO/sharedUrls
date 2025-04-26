@@ -1,3 +1,3 @@
-BACKEND_URL=https://legal-islands-leave.loca.lt
-FRONTEND_URL=https://empty-views-check.loca.lt
+BACKEND_URL=https://petite-guests-feel.loca.lt
+FRONTEND_URL=https://thirty-shrimps-rush.loca.lt
 PUBLIC_IP=91.116.118.24
