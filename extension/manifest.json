@@ -4,10 +4,9 @@
   "description": "TFG Extension",
   "permissions": ["scripting", "storage", "tabs", "webNavigation"],
   "host_permissions": [
+"https://shy-llamas-fix.loca.lt/*",
 "https://odd-brooms-sniff.loca.lt/*",
-"/*",
 "https://loud-states-relax.loca.lt/*",
-"/*",
 "https://eight-pans-hide.loca.lt/*",
 "https://light-camels-stay.loca.lt/*",
 "https://mighty-bars-drive.loca.lt/*",
@@ -20,7 +19,7 @@
 "https://wicked-worms-clean.loca.lt/*",
 "https://quick-islands-punch.loca.lt/*",
 "https://nine-beans-stick.loca.lt/*",
-      "https://*.youtube.com/*",
+      "https://*.youtube.com/*"
     ],
   "background": {
     "service_worker": "background.js",
