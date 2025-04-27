@@ -4,6 +4,7 @@
   "description": "TFG Extension",
   "permissions": ["scripting", "storage", "tabs", "webNavigation"],
   "host_permissions": [
+"https://early-views-grow.loca.lt/*",
 "https://giant-kids-stay.loca.lt/*",
 "https://loud-lies-shout.loca.lt/*",
 "https://shy-llamas-fix.loca.lt/*",
