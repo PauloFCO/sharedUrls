@@ -1,0 +1,62 @@
+{
+  "name": "Easy cap",
+  "version": "0.2.0",
+  "description": "TFG Extension",
+  "permissions": ["scripting", "storage", "tabs", "webNavigation"],
+  "host_permissions": [
+"/*",
+"https://loud-states-relax.loca.lt/*",
+"/*",
+"https://eight-pans-hide.loca.lt/*",
+"https://light-camels-stay.loca.lt/*",
+"https://mighty-bars-drive.loca.lt/*",
+"https://petite-guests-feel.loca.lt/*",
+"https://legal-islands-leave.loca.lt/*",
+"https://late-hairs-itch.loca.lt/*",
+"https://icy-weeks-bet.loca.lt/*",
+"https://violet-guests-agree.loca.lt/*",
+"https://hot-poets-nail.loca.lt/*",
+"https://wicked-worms-clean.loca.lt/*",
+"https://quick-islands-punch.loca.lt/*",
+"https://nine-beans-stick.loca.lt/*",
+      "https://*.youtube.com/*",
+    ],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.youtube.com/*"],
+      "js": ["contentScript.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "assets/play.png",
+        "assets/delete.png",
+        "assets/push.png",
+        "assets/hidde.png",
+        "assets/unhidde.png",
+        "assets/pause-indicator.png"
+      ],
+      "matches": ["https://*.youtube.com/*"]
+    }
+  ],
+  "action": {
+    "default_icon": {
+      "16": "assets/ext-icon.png",
+      "24": "assets/ext-icon.png",
+      "32": "assets/ext-icon.png"
+    },
+    "default_title": "React extension",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "assets/ext-icon.png",
+    "48": "assets/ext-icon-48.png",
+    "128": "assets/ext-icon-128.png"
+  },
+  "manifest_version": 3
+}

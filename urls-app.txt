@@ -1,3 +1,3 @@
-BACKEND_URL=https://loud-states-relax.loca.lt
-FRONTEND_URL=https://eleven-bananas-hug.loca.lt
+BACKEND_URL=
+FRONTEND_URL=https://kind-women-wear.loca.lt
 PUBLIC_IP=91.116.118.24
