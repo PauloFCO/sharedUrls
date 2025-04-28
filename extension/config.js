@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://social-grapes-thank.loca.lt/api",
-    AUTH_BASE_URL: "https://social-grapes-thank.loca.lt/auth"
+    API_BASE_URL: "https://giant-kiwis-greet.loca.lt/api",
+    AUTH_BASE_URL: "https://giant-kiwis-greet.loca.lt/auth"
 }
