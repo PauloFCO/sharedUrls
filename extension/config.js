@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://floppy-planes-accept.loca.lt/api",
-    AUTH_BASE_URL: "https://floppy-planes-accept.loca.lt/auth"
+    API_BASE_URL: "https://curly-files-kick.loca.lt/api",
+    AUTH_BASE_URL: "https://curly-files-kick.loca.lt/auth"
 }
