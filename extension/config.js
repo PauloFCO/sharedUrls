@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://chubby-terms-make.loca.lt/api",
-    AUTH_BASE_URL: "https://chubby-terms-make.loca.lt/auth"
+    API_BASE_URL: "https://mighty-crabs-live.loca.lt/api",
+    AUTH_BASE_URL: "https://mighty-crabs-live.loca.lt/auth"
 }
