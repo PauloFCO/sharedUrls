@@ -1,3 +1,3 @@
-BACKEND_URL=https://silent-adults-reply.loca.lt
-FRONTEND_URL=https://little-meals-refuse.loca.lt
+BACKEND_URL=https://chubby-terms-make.loca.lt
+FRONTEND_URL=https://moody-suits-relate.loca.lt
 PUBLIC_IP=91.116.118.24
