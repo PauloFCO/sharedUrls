@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://clever-bobcats-lose.loca.lt/api",
-    AUTH_BASE_URL: "https://clever-bobcats-lose.loca.lt/auth"
+    API_BASE_URL: "https://whole-maps-chew.loca.lt/api",
+    AUTH_BASE_URL: "https://whole-maps-chew.loca.lt/auth"
 }
