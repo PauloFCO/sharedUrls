@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://clear-eels-decide.loca.lt/api",
-    AUTH_BASE_URL: "https://clear-eels-decide.loca.lt/auth"
+    API_BASE_URL: "https://yellow-colts-hide.loca.lt/api",
+    AUTH_BASE_URL: "https://yellow-colts-hide.loca.lt/auth"
 }
