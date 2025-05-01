@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://cold-sloths-scream.loca.lt/api",
-    AUTH_BASE_URL: "https://cold-sloths-scream.loca.lt/auth"
+    API_BASE_URL: "https://spotty-wolves-reply.loca.lt/api",
+    AUTH_BASE_URL: "https://spotty-wolves-reply.loca.lt/auth"
 }
