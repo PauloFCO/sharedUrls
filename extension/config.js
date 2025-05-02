@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://slow-trams-scream.loca.lt/api",
-    AUTH_BASE_URL: "https://slow-trams-scream.loca.lt/auth"
+    API_BASE_URL: "https://gold-boxes-exist.loca.lt/api",
+    AUTH_BASE_URL: "https://gold-boxes-exist.loca.lt/auth"
 }
