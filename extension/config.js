@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://brave-deer-jump.loca.lt/api",
-    AUTH_BASE_URL: "https://brave-deer-jump.loca.lt/auth"
+    API_BASE_URL: "https://witty-worms-behave.loca.lt/api",
+    AUTH_BASE_URL: "https://witty-worms-behave.loca.lt/auth"
 }
