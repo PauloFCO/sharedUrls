@@ -1,3 +1,3 @@
-BACKEND_URL=https://major-kings-build.loca.lt
-FRONTEND_URL=https://dirty-lamps-warn.loca.lt
+BACKEND_URL=https://vast-weeks-read.loca.lt
+FRONTEND_URL=https://social-lines-fix.loca.lt
 PUBLIC_IP=91.116.118.24
