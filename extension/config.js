@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://legal-garlics-play.loca.lt/api",
-    AUTH_BASE_URL: "https://legal-garlics-play.loca.lt/auth"
+    API_BASE_URL: "https://twelve-cycles-pay.loca.lt/api",
+    AUTH_BASE_URL: "https://twelve-cycles-pay.loca.lt/auth"
 }
