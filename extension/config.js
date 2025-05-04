@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://two-clouds-watch.loca.lt/api",
-    AUTH_BASE_URL: "https://two-clouds-watch.loca.lt/auth"
+    API_BASE_URL: "https://bumpy-lions-walk.loca.lt/api",
+    AUTH_BASE_URL: "https://bumpy-lions-walk.loca.lt/auth"
 }
