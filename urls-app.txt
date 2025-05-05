@@ -1,3 +1,3 @@
-BACKEND_URL=https://solid-pugs-raise.loca.lt
-FRONTEND_URL=https://some-steaks-work.loca.lt
+BACKEND_URL=https://fruity-chicken-join.loca.lt
+FRONTEND_URL=https://rich-guests-cheat.loca.lt
 PUBLIC_IP=91.116.118.24
