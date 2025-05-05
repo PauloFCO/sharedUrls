@@ -1,3 +1,3 @@
-BACKEND_URL=https://green-rooms-wonder.loca.lt
-FRONTEND_URL=https://cruel-pumas-travel.loca.lt
+BACKEND_URL=https://green-meals-kneel.loca.lt
+FRONTEND_URL=https://metal-papayas-call.loca.lt
 PUBLIC_IP=91.116.118.24
