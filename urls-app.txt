@@ -1,3 +1,3 @@
-BACKEND_URL=https://thirty-pianos-wonder.loca.lt
-FRONTEND_URL=https://cute-snakes-live.loca.lt
+BACKEND_URL=https://cool-bats-see.loca.lt
+FRONTEND_URL=https://sixty-areas-cover.loca.lt
 PUBLIC_IP=91.116.118.24
