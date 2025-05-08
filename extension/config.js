@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://odd-groups-wave.loca.lt/api",
-    AUTH_BASE_URL: "https://odd-groups-wave.loca.lt/auth"
+    API_BASE_URL: "https://full-sides-happen.loca.lt/api",
+    AUTH_BASE_URL: "https://full-sides-happen.loca.lt/auth"
 }
