@@ -1,3 +1,3 @@
-BACKEND_URL=https://late-grapes-lie.loca.lt
-FRONTEND_URL=https://eighty-pumas-joke.loca.lt
+BACKEND_URL=https://evil-snakes-do.loca.lt
+FRONTEND_URL=https://easy-sheep-doubt.loca.lt
 PUBLIC_IP=91.116.118.24
