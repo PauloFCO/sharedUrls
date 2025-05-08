@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://chubby-files-rhyme.loca.lt/api",
-    AUTH_BASE_URL: "https://chubby-files-rhyme.loca.lt/auth"
+    API_BASE_URL: "https://quiet-toes-cover.loca.lt/api",
+    AUTH_BASE_URL: "https://quiet-toes-cover.loca.lt/auth"
 }

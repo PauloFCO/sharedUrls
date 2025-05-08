@@ -1,3 +1,3 @@
-BACKEND_URL=https://chubby-files-rhyme.loca.lt
-FRONTEND_URL=https://plain-baboons-return.loca.lt
+BACKEND_URL=https://quiet-toes-cover.loca.lt
+FRONTEND_URL=https://old-hats-hug.loca.lt
 PUBLIC_IP=91.116.118.24
