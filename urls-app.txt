@@ -1,3 +1,3 @@
-BACKEND_URL=https://vast-dots-act.loca.lt
-FRONTEND_URL=https://famous-beers-sin.loca.lt
+BACKEND_URL=https://nice-flowers-hear.loca.lt
+FRONTEND_URL=https://bright-teeth-shake.loca.lt
 PUBLIC_IP=91.116.118.24
