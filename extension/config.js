@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://seven-plants-tease.loca.lt/api",
-    AUTH_BASE_URL: "https://seven-plants-tease.loca.lt/auth"
+    API_BASE_URL: "https://ripe-dragons-slide.loca.lt/api",
+    AUTH_BASE_URL: "https://ripe-dragons-slide.loca.lt/auth"
 }
