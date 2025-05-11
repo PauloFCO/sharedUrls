@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://easy-chicken-swim.loca.lt/api",
-    AUTH_BASE_URL: "https://easy-chicken-swim.loca.lt/auth"
+    API_BASE_URL: "https://chilly-parrots-argue.loca.lt/api",
+    AUTH_BASE_URL: "https://chilly-parrots-argue.loca.lt/auth"
 }
