@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "/api",
-    AUTH_BASE_URL: "/auth"
+    API_BASE_URL: "https://brown-loops-clean.loca.lt/api",
+    AUTH_BASE_URL: "https://brown-loops-clean.loca.lt/auth"
 }
