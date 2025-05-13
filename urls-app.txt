@@ -1,3 +1,3 @@
-BACKEND_URL=https://mean-clowns-own.loca.lt
-FRONTEND_URL=https://sad-actors-run.loca.lt
+BACKEND_URL=https://eight-mice-attend.loca.lt
+FRONTEND_URL=https://tidy-cobras-push.loca.lt
 PUBLIC_IP=91.116.118.24
