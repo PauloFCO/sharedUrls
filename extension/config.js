@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "/api",
-    AUTH_BASE_URL: "/auth"
+    API_BASE_URL: "https://old-loops-shake.loca.lt/api",
+    AUTH_BASE_URL: "https://old-loops-shake.loca.lt/auth"
 }
