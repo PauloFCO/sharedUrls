@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://brown-loops-clean.loca.lt/api",
-    AUTH_BASE_URL: "https://brown-loops-clean.loca.lt/auth"
+    API_BASE_URL: "https://fruity-windows-fold.loca.lt/api",
+    AUTH_BASE_URL: "https://fruity-windows-fold.loca.lt/auth"
 }
