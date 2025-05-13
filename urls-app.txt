@@ -1,3 +1,3 @@
-BACKEND_URL=https://fruity-windows-fold.loca.lt
-FRONTEND_URL=https://better-carrots-watch.loca.lt
+BACKEND_URL=https://rude-clouds-glow.loca.lt
+FRONTEND_URL=https://lucky-bobcats-matter.loca.lt
 PUBLIC_IP=91.116.118.24
