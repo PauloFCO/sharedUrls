@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://wet-carrots-sleep.loca.lt/api",
-    AUTH_BASE_URL: "https://wet-carrots-sleep.loca.lt/auth"
+    API_BASE_URL: "https://calm-eggs-wash.loca.lt/api",
+    AUTH_BASE_URL: "https://calm-eggs-wash.loca.lt/auth"
 }
