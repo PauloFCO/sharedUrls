@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://lemon-pens-juggle.loca.lt/api",
-    AUTH_BASE_URL: "https://lemon-pens-juggle.loca.lt/auth"
+    API_BASE_URL: "https://short-ideas-agree.loca.lt/api",
+    AUTH_BASE_URL: "https://short-ideas-agree.loca.lt/auth"
 }
