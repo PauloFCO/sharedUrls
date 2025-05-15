@@ -1,3 +1,3 @@
-BACKEND_URL=https://cute-hoops-prove.loca.lt
-FRONTEND_URL=https://smooth-symbols-stay.loca.lt
+BACKEND_URL=https://salty-cows-bathe.loca.lt
+FRONTEND_URL=https://angry-lands-refuse.loca.lt
 PUBLIC_IP=91.116.118.24
