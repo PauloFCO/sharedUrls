@@ -1,3 +1,3 @@
-BACKEND_URL=https://crazy-moose-marry.loca.lt
-FRONTEND_URL=https://busy-cloths-behave.loca.lt
+BACKEND_URL=https://huge-birds-rhyme.loca.lt
+FRONTEND_URL=https://public-points-type.loca.lt
 PUBLIC_IP=91.116.118.24
