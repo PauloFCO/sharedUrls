@@ -1,3 +1,3 @@
-BACKEND_URL=https://wide-buses-enjoy.loca.lt
-FRONTEND_URL=https://big-ants-pull.loca.lt
+BACKEND_URL=
+FRONTEND_URL=
 PUBLIC_IP=91.116.118.24
