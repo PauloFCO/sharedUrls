@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://khaki-taxes-doubt.loca.lt/api",
-    AUTH_BASE_URL: "https://khaki-taxes-doubt.loca.lt/auth"
+    API_BASE_URL: "https://quick-moons-jog.loca.lt/api",
+    AUTH_BASE_URL: "https://quick-moons-jog.loca.lt/auth"
 }
