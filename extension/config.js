@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://true-brooms-strive.loca.lt/api",
-    AUTH_BASE_URL: "https://true-brooms-strive.loca.lt/auth"
+    API_BASE_URL: "https://ninety-garlics-switch.loca.lt/api",
+    AUTH_BASE_URL: "https://ninety-garlics-switch.loca.lt/auth"
 }
