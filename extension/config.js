@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://fruity-boxes-glow.loca.lt/api",
-    AUTH_BASE_URL: "https://fruity-boxes-glow.loca.lt/auth"
+    API_BASE_URL: "https://four-planes-kick.loca.lt/api",
+    AUTH_BASE_URL: "https://four-planes-kick.loca.lt/auth"
 }
