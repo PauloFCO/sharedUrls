@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://shaggy-ghosts-trade.loca.lt/api",
-    AUTH_BASE_URL: "https://shaggy-ghosts-trade.loca.lt/auth"
+    API_BASE_URL: "https://deep-falcons-act.loca.lt/api",
+    AUTH_BASE_URL: "https://deep-falcons-act.loca.lt/auth"
 }
