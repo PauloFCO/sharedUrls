@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://giant-beans-type.loca.lt/api",
-    AUTH_BASE_URL: "https://giant-beans-type.loca.lt/auth"
+    API_BASE_URL: "https://spotty-comics-melt.loca.lt/api",
+    AUTH_BASE_URL: "https://spotty-comics-melt.loca.lt/auth"
 }
