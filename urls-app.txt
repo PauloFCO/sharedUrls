@@ -1,3 +1,3 @@
-BACKEND_URL=https://silver-drinks-speak.loca.lt
-FRONTEND_URL=https://strong-cooks-float.loca.lt
+BACKEND_URL=https://easy-chairs-laugh.loca.lt
+FRONTEND_URL=https://spotty-lies-hear.loca.lt
 PUBLIC_IP=91.116.118.24
