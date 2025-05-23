@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://chatty-dragons-argue.loca.lt/api",
-    AUTH_BASE_URL: "https://chatty-dragons-argue.loca.lt/auth"
+    API_BASE_URL: "https://violet-mangos-raise.loca.lt/api",
+    AUTH_BASE_URL: "https://violet-mangos-raise.loca.lt/auth"
 }
