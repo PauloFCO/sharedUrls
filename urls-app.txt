@@ -1,3 +1,3 @@
-BACKEND_URL=https://big-ghosts-open.loca.lt
-FRONTEND_URL=https://rare-ears-sleep.loca.lt
+BACKEND_URL=https://silent-bees-shop.loca.lt
+FRONTEND_URL=https://four-ends-bathe.loca.lt
 PUBLIC_IP=91.116.118.24
