@@ -1,3 +1,3 @@
-BACKEND_URL=https://giant-crews-think.loca.lt
-FRONTEND_URL=https://real-ties-strive.loca.lt
+BACKEND_URL=https://clever-loops-wink.loca.lt
+FRONTEND_URL=https://purple-toys-relate.loca.lt
 PUBLIC_IP=91.116.118.24
