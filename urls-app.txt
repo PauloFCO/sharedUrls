@@ -1,3 +1,3 @@
-BACKEND_URL=https://metal-squids-pay.loca.lt
-FRONTEND_URL=https://shy-rules-share.loca.lt
+BACKEND_URL=https://whole-dodos-stay.loca.lt
+FRONTEND_URL=https://fresh-carpets-nail.loca.lt
 PUBLIC_IP=91.116.118.24
