@@ -1,3 +1,3 @@
-BACKEND_URL=https://hungry-laws-greet.loca.lt
-FRONTEND_URL=https://legal-regions-begin.loca.lt
+BACKEND_URL=https://beige-colts-hammer.loca.lt
+FRONTEND_URL=https://flat-pants-notice.loca.lt
 PUBLIC_IP=91.116.118.24
