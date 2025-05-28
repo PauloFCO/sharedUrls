@@ -1,3 +1,3 @@
-BACKEND_URL=https://small-lies-sneeze.loca.lt
-FRONTEND_URL=https://kind-suns-tell.loca.lt
+BACKEND_URL=https://gentle-flies-cut.loca.lt
+FRONTEND_URL=https://wild-forks-fly.loca.lt
 PUBLIC_IP=91.116.118.24
