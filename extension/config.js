@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://red-clouds-brake.loca.lt/api",
-    AUTH_BASE_URL: "https://red-clouds-brake.loca.lt/auth"
+    API_BASE_URL: "https://honest-cats-exist.loca.lt/api",
+    AUTH_BASE_URL: "https://honest-cats-exist.loca.lt/auth"
 }
