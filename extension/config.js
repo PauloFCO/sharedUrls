@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://ninety-sheep-glow.loca.lt/api",
-    AUTH_BASE_URL: "https://ninety-sheep-glow.loca.lt/auth"
+    API_BASE_URL: "https://pretty-rockets-pay.loca.lt/api",
+    AUTH_BASE_URL: "https://pretty-rockets-pay.loca.lt/auth"
 }
