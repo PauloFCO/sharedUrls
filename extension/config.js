@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://moody-parts-joke.loca.lt/api",
-    AUTH_BASE_URL: "https://moody-parts-joke.loca.lt/auth"
+    API_BASE_URL: "https://funny-turtles-count.loca.lt/api",
+    AUTH_BASE_URL: "https://funny-turtles-count.loca.lt/auth"
 }
