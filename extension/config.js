@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://ten-nails-end.loca.lt/api",
-    AUTH_BASE_URL: "https://ten-nails-end.loca.lt/auth"
+    API_BASE_URL: "https://cold-rockets-lose.loca.lt/api",
+    AUTH_BASE_URL: "https://cold-rockets-lose.loca.lt/auth"
 }
