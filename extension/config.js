@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://cold-rockets-lose.loca.lt/api",
-    AUTH_BASE_URL: "https://cold-rockets-lose.loca.lt/auth"
+    API_BASE_URL: "https://ripe-rabbits-hunt.loca.lt/api",
+    AUTH_BASE_URL: "https://ripe-rabbits-hunt.loca.lt/auth"
 }
