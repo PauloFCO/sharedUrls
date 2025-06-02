@@ -1,3 +1,3 @@
-BACKEND_URL=
-FRONTEND_URL=
+BACKEND_URL=https://tidy-onions-sin.loca.lt
+FRONTEND_URL=https://fluffy-wolves-dig.loca.lt
 PUBLIC_IP=91.116.118.24
