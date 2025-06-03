@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://itchy-tires-search.loca.lt/api",
-    AUTH_BASE_URL: "https://itchy-tires-search.loca.lt/auth"
+    API_BASE_URL: "https://honest-monkeys-accept.loca.lt/api",
+    AUTH_BASE_URL: "https://honest-monkeys-accept.loca.lt/auth"
 }
