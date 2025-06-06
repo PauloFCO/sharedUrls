@@ -1,3 +1,3 @@
-BACKEND_URL=https://bright-badgers-wave.loca.lt
-FRONTEND_URL=https://tasty-facts-divide.loca.lt
+BACKEND_URL=https://tidy-suits-shave.loca.lt
+FRONTEND_URL=https://cool-wings-remain.loca.lt
 PUBLIC_IP=91.116.118.24
