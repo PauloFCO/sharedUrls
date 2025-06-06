@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://three-words-teach.loca.lt/api",
-    AUTH_BASE_URL: "https://three-words-teach.loca.lt/auth"
+    API_BASE_URL: "https://strong-taxis-shout.loca.lt/api",
+    AUTH_BASE_URL: "https://strong-taxis-shout.loca.lt/auth"
 }
