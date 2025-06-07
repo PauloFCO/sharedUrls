@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://new-schools-accept.loca.lt/api",
-    AUTH_BASE_URL: "https://new-schools-accept.loca.lt/auth"
+    API_BASE_URL: "https://some-sloths-juggle.loca.lt/api",
+    AUTH_BASE_URL: "https://some-sloths-juggle.loca.lt/auth"
 }
