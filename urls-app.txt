@@ -1,3 +1,3 @@
-BACKEND_URL=https://some-sloths-juggle.loca.lt
-FRONTEND_URL=https://stale-places-follow.loca.lt
+BACKEND_URL=https://wide-ants-take.loca.lt
+FRONTEND_URL=https://upset-months-occur.loca.lt
 PUBLIC_IP=91.116.118.24
