@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://hungry-kings-laugh.loca.lt/api",
-    AUTH_BASE_URL: "https://hungry-kings-laugh.loca.lt/auth"
+    API_BASE_URL: "https://many-tools-accept.loca.lt/api",
+    AUTH_BASE_URL: "https://many-tools-accept.loca.lt/auth"
 }
