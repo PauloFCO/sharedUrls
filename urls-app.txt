@@ -1,3 +1,3 @@
-BACKEND_URL=https://fancy-tips-tease.loca.lt
-FRONTEND_URL=https://free-melons-cheer.loca.lt
+BACKEND_URL=https://crazy-hoops-thank.loca.lt
+FRONTEND_URL=https://deep-dryers-reply.loca.lt
 PUBLIC_IP=91.116.118.24
