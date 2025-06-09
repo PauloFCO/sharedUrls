@@ -1,3 +1,3 @@
-BACKEND_URL=https://bumpy-cats-kneel.loca.lt
-FRONTEND_URL=https://happy-bugs-dig.loca.lt
+BACKEND_URL=https://sad-ears-beam.loca.lt
+FRONTEND_URL=https://salty-flowers-happen.loca.lt
 PUBLIC_IP=91.116.118.24
