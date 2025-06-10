@@ -1,4 +1,4 @@
 export const CONFIG = {
-    API_BASE_URL: "https://purple-crews-care.loca.lt/api",
-    AUTH_BASE_URL: "https://purple-crews-care.loca.lt/auth"
+    API_BASE_URL: "/api",
+    AUTH_BASE_URL: "/auth"
 }
